@@ -1,1 +1,1 @@
-/usr/bin/shortcuts run "Toggle Arbeiten"
+/usr/bin/shortcuts run "Scene: Toggle Arbeiten"
